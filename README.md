@@ -1,4 +1,4 @@
-<h5> Simple Shell </h5>
+<h2 align="center"> Simple Shell </h2>
 
 <Img align="center" alt="coding" width="300" src="https://phoneky.co.uk/thumbs/screensavers/down/nature/seashell_2x1ahulf.gif">
 
