@@ -1,4 +1,4 @@
-<Img align="right" alt="coding" width="300" src="https://phoneky.co.uk/thumbs/screensavers/down/nature/seashell_2x1ahulf.gif">
+<Img align="center" alt="coding" width="300" src="https://phoneky.co.uk/thumbs/screensavers/down/nature/seashell_2x1ahulf.gif">
 
 
 # 0x16. C - Simple Shell
