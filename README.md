@@ -1,7 +1,8 @@
+<h3> # 0x16. C - Simple Shell </h3>
+
 <Img align="center" alt="coding" width="300" src="https://phoneky.co.uk/thumbs/screensavers/down/nature/seashell_2x1ahulf.gif">
 
 
-# 0x16. C - Simple Shell
 
 ## Write a beautiful code that passes the Betty checks
 
