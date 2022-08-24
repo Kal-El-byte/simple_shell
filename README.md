@@ -1,6 +1,6 @@
 <h1 align="center"> Simple Shell Project </h1>
 
-<Img align="center" alt="coding" width="300" src="https://phoneky.co.uk/thumbs/screensavers/down/nature/seashell_2x1ahulf.gif">
+<Img align="center" alt="coding" width="300" height="300" src="https://phoneky.co.uk/thumbs/screensavers/down/nature/seashell_2x1ahulf.gif">
 
 
 
