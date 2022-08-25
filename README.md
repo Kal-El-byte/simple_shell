@@ -1,4 +1,4 @@
-<h1 align="center" style="color:green;"> Simple Shell Project </h1>
+<h1 align="center"><font color="silver"> Simple Shell Project</font> </h1>
 
 <Img align="center" alt="coding" width="300" height="200" src="https://phoneky.co.uk/thumbs/screensavers/down/nature/seashell_2x1ahulf.gif">
 
