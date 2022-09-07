@@ -40,9 +40,11 @@ man sh, execve(2), environ
 .SH NOTES
 All files and code used in .shell were created and compiled on Ubuntu 14.04.4 LTS using GCC 4.8.4
 .SH BUGS
-There are many features and builtin commands that are not implimented in this simple shell such as aliases, cd, and logical operators. When 
+There are many features and builtin commands that are not implimented in this simple shell such as aliases, cd, and logical operators.
 
 
----                                                     ### AUTHORS
-* **Abidemi Oluwaseyi** - [abidemiseyi164real@gmail.com]                                                        * **Ayinde Daniel** - [danivetlyrics@gmail.com]
+---
+
+### AUTHORS
+* **Abidemi Oluwaseyi** - [abidemiseyi164real@gmail.com]                        * **Ayinde Daniel** - [danivetlyrics@gmail.com]
 
